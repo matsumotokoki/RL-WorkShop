@@ -14,8 +14,9 @@ RDCLab.のB3に向けた勉強会の資料です。
     <tr>
         <td><img src="faild.png"></td>
         <td><img src="success.png"></td>
-    </tr>
+    </tr>  
 </table>
+<img src="demo.gif"></td>
 
 ## 動画
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/xj121Km8_tw/0.jpg)](http://www.youtube.com/watch?v=xj121Km8_tw)  
